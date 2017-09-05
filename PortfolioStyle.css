@@ -1,0 +1,72 @@
+
+body{
+  color: white;
+  text-align: left;	
+  font-family: Arial;
+  margin: 0px;
+}
+h1{
+  margin: 0;
+}
+.header{
+width: 100%;
+height: 100px;
+background: #333;
+margin: 0px;
+}
+
+.ul{
+  margin: 0px;
+  -webkit-padding-start: 20px;
+  -webkit-padding-before: 40px;
+}
+.ul li{
+  list-style-type: none; 
+}
+ .ul li a{
+   color: white;   
+   font-weight: bold;
+   text-decoration: none;
+ }
+.mainBody{
+  background-image: url("img/brick-wall.jpg");
+  background-size: cover;
+}
+
+#p1{ 
+
+  width: 80%;
+  padding-top: 30px;
+  padding-left: 30px;
+ padding-bottom: 5px;
+  margin: 0px;
+  font-size: 20px;
+  font-style: italic;
+} 
+
+._logo {
+  margin: 0px;
+  padding: 20px 0 2px 20px;
+  border-bottom: white 1px solid;  
+}
+
+.container {
+  width: 100%;
+  height: 150px;
+  margin: 0px;
+  padding: 20px 0 2px 20px;
+}
+.container p{ 
+  margin: 0px;
+  padding: 5px 0 5px 20px;
+}
+.container ul{ 
+  margin: 0;
+  padding-left:50px;
+}
+ footer{
+  margin: 10px;
+  text-align: center;
+  color: black;
+ }
+ 
